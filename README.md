@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jioh's Gitgub!&fontSize=90" />
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <!--
 **jiohjung98/jiohjung98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
