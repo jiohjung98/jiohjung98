@@ -5,8 +5,14 @@
 # Hi there 🖐
 I am jioh jung, Hanyang university Erica campus student from South Korea. I'm studying Division of ICT and Computer Science.<br><br><br>
 
+# Contact
+### Email: ckaquz98@naver.com
+### Blog: https://jiohjung-dev.tistory.com
+<br><br><br>
+
+
 # Languages
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=black"/><br><br><br>
+<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=black"/><br><br><br>
 
 # GitHub Stats
 [![Jioh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiohjung98)](https://github.com/anuraghazra/github-readme-stats) <br>
