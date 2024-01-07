@@ -6,8 +6,18 @@
 I am jioh jung, Hanyang university Erica campus student from South Korea. I'm studying Division of ICT and Computer Science.<br><br><br>
 
 # Contact
-### Email: ckaquz98@naver.com
-### Blog: https://jiohjung-dev.tistory.com
+Email: ckaquz98@naver.com <br/><br/>
+Blog: https://jiohjung-dev.tistory.com
+<br><br><br>
+
+
+# Experience
+FastCampus X Yanolja Web Frontend Bootcamp 1st (2023.07 ~ 2024.01) <br/><br/>
+UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
+Hanyang University Erica (2019.03 ~ 2024.02)
+- 1st major : ICT Convergence
+- 2nd major : Computer Science
+
 <br><br><br>
 
 
