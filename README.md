@@ -5,13 +5,13 @@
 # Hi there 🖐
 I am jioh jung, Hanyang university Erica campus student from South Korea. I'm studying Division of ICT and Computer Science.<br><br><br>
 
-# Contact
+# Contact 📞
 Email: ckaquz98@naver.com <br/><br/>
 Blog: https://jiohjung-dev.tistory.com
 <br><br><br>
 
 
-# Experience
+# Experience 🔗
 - FastCampus X Yanolja Web Frontend Bootcamp 1st (2023.07 ~ 2024.01) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University Erica (2019.03 ~ 2024.02)
@@ -21,7 +21,7 @@ Blog: https://jiohjung-dev.tistory.com
 <br><br><br>
 
 
-# Languages
+# Languages 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=black"/><br><br><br>
 
 # GitHub Stats
