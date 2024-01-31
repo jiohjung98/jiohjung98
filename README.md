@@ -14,7 +14,7 @@ Blog: https://jiohjung-dev.tistory.com
 # Experience 🔗
 - FastCampus X Yanolja Web Frontend Bootcamp 1st (2023.07 ~ 2024.01) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
-- Hanyang University Erica (2019.03 ~ 2024.02)
+- Hanyang University Erica (2019.03 ~ 2025.02)
   - 1st major : ICT Convergence
   - 2nd major : Computer Science
 
