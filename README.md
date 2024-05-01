@@ -2,16 +2,20 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jioh's%20Github!&fontSize=80)<br><br><br>
 <br><br><br>
 
-# Hi there 🖐
-I am jioh jung, Hanyang university Erica campus student from South Korea. I'm studying Division of ICT and Computer Science.<br><br><br>
+# About Me
+- 😊 I am jioh jung from South Korea.
+- 💻 I'm studying Division of ICT and Computer Science.
+- 🧑‍💻 I'm software enginner.
+- ✨ I'm interested in web front-end.
+<br><br><br>
 
-# Contact 📞
-Email: ckaquz98@naver.com <br/><br/>
-Blog: https://jiohjung-dev.tistory.com
+# Contact
+- Email: ckaquz98@naver.com <br/><br/>
+- Blog: https://jiohjung-dev.tistory.com
 <br><br><br>
 
 
-# Experience 🔗
+# Experience
 - FastCampus X Yanolja Web Frontend Bootcamp 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University Erica (2019.03 ~ 2025.02)
@@ -20,9 +24,13 @@ Blog: https://jiohjung-dev.tistory.com
 
 <br><br><br>
 
+# Tech Stacks
+### Main   
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
 
-# Languages 
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=black"/><br><br><br>
+### Sub   
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
 
 # GitHub Stats
 [![Jioh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiohjung98)](https://github.com/anuraghazra/github-readme-stats) <br>
