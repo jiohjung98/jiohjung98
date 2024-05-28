@@ -16,7 +16,7 @@
 
 
 # Experience
-- FastCampus X Yanolja Web Frontend Bootcamp 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
+- FastCampus x Yanolja Tech School 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University Erica (2019.03 ~ 2025.02)
   - 1st major : division of ICT
