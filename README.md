@@ -14,9 +14,14 @@
 - Blog: https://jiohjung-dev.tistory.com
 <br><br><br>
 
+# Career
+- Netflix Agent Of Mystery event site web developer (2024.06 ~ 2024.07)<br/><br/>
+- Netflix Squid Game Trip event site web developer (2024.05 ~ 2024.06)
+<br><br><br>
 
 # Experience
-- FastCampus x Yanolja Tech School 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
+- 9oormthon univ 3rd hyu-ercia representative (2024.07 ~ 2024.12)  <br/><br/>
+- Yanolja Tech School 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University Erica (2019.03 ~ 2025.02)
   - 1st major : division of ICT
