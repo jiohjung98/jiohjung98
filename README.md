@@ -39,7 +39,6 @@
 
 # GitHub Stats
 [![Jioh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiohjung98)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiohjung98)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
 
 # [Boj](https://www.acmicpc.net/) Stats
 [![Solved.ac
