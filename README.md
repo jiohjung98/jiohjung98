@@ -15,8 +15,8 @@
 <br><br><br>
 
 # Career
-- Netflix Agent Of Mystery event site web front-end developer (2024.06 ~ 2024.07)<br/><br/>
-- Netflix Squid Game Trip event site web front-end developer (2024.05 ~ 2024.06)
+- Netflix Agent Of Mystery event site developer (2024.06 ~ 2024.07)<br/><br/>
+- Netflix Squid Game Trip event site developer (2024.05 ~ 2024.06)
 <br><br><br>
 
 # Experience
