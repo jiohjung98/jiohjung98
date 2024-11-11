@@ -15,8 +15,10 @@
 <br><br><br>
 
 # Career
-- Netflix Agent Of Mystery event site web developer (2024.06 ~ 2024.07)<br/><br/>
-- Netflix Squid Game Trip event site web developer (2024.05 ~ 2024.06)
+- ㈜ 바이트커뮤니케이션즈 프리랜서 (2024.05.13 ~ 2024.06.28)<br><br/>
+  - 넷플릭스 외주 업무 수행(넷플릭스 방영 방송 이벤트 사이트 개발) <br/><br/>
+    - 넷플릭스 방송 미스터리수사단 이벤트 웹사이트 개발 (2024.06 ~ 2024.07)<br/><br/>
+    - 넷플릭스 방송 오징어게임2 해외 인플루언서 초청 안내 웹사이트 개발 (2024.05 ~ 2024.06)
 <br><br><br>
 
 # Experience
