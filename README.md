@@ -46,3 +46,4 @@
 # [Boj](https://www.acmicpc.net/) Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkumiya)](https://solved.ac/kkumiya)<br><br><br>
+
