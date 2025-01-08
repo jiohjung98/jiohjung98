@@ -15,17 +15,15 @@
 <br><br><br>
 
 # Career
-- ㈜ 바이트커뮤니케이션즈 프리랜서 (2024.05.13 ~ 2024.06.28)<br><br/>
-  - 넷플릭스 외주 업무 수행(넷플릭스 방영 방송 이벤트 사이트 개발) <br/><br/>
-    - 넷플릭스 방송 미스터리수사단 이벤트 웹사이트 개발 (2024.06 ~ 2024.07)<br/><br/>
-    - 넷플릭스 방송 오징어게임2 해외 인플루언서 초청 안내 웹사이트 개발 (2024.05 ~ 2024.06)
+- Bite communications freelancer, Netflix event web site develop (2024.05.13 ~ 2024.06.28)
+
 <br><br><br>
 
 # Experience
 - 9oormthon univ 3rd Hanyang University Erica Representative (2024.07 ~ 2024.12)  <br/><br/>
-- Yanolja Tech School 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
+- Yanolja Tech School Frontend 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
-- Hanyang University Erica (2019.03 ~ 2025.02)
+- Hanyang University ERICA (2019.03 ~ 2025.02)
   - 1st major : division of ICT
   - 2nd major : Computer Science
 
