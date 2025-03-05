@@ -5,7 +5,7 @@
 # About Me
 - 😊 I am jioh jung from South Korea.
 - 💻 I'm studying Division of ICT and Computer Science.
-- 🧑‍💻 I'm software enginner.
+- 🧑‍💻 I'm software engineer.
 - ✨ I'm interested in web front-end.
 <br><br><br>
 
@@ -20,7 +20,7 @@
 <br><br><br>
 
 # Experience
-- 9oormthon univ 3rd Hanyang University Erica Representative (2024.07 ~ 2025.01)  <br/><br/>
+- 9oormthon univ 3rd Hanyang University ERICA Representative (2024.07 ~ 2025.01)  <br/><br/>
 - Yanolja Tech School Frontend 1st & Representative (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University ERICA (2019.03 ~ 2025.02)
