@@ -20,8 +20,8 @@
 <br><br><br>
 
 # Experience
-- 9oormthon univ 3rd Hanyang University Erica Representative (2024.07 ~ 2024.12)  <br/><br/>
-- Yanolja Tech School Frontend 1st (2023.07.10 ~ 2024.01.30) <br/><br/>
+- 9oormthon univ 3rd Hanyang University Erica Representative (2024.07 ~ 2025.01)  <br/><br/>
+- Yanolja Tech School Frontend 1st & Representative (2023.07.10 ~ 2024.01.30) <br/><br/>
 - UMC(University MakeUs Challenge) Android Part 3rd (2022.09 ~ 2023.02)  <br/><br/>
 - Hanyang University ERICA (2019.03 ~ 2025.02)
   - 1st major : division of ICT
