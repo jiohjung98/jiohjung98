@@ -61,7 +61,7 @@
 
 <br/><br/>
 
-### Projects
+## Projects
 
 - [어이, 할망](https://github.com/ddol-mang) - 제주 부모, 육지 자녀 간 안부를 묻는 소통 플랫폼 | **Frontend Lead**
 - [Carely](https://github.com/jiohjung98/2024_DANPOONG_TEAM_43_FE) - 돌봄의 순간을 하나로 연결하다 - 간병인, 자원봉사자, 요양보호사 매칭 플랫폼 | **Frontend Lead**
