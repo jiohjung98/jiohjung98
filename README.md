@@ -63,13 +63,13 @@
 
 ## Projects
 
-- [어이, 할망](https://github.com/ddol-mang) - 제주 부모, 육지 자녀 간 안부를 묻는 소통 플랫폼 | **Frontend Lead**
-- [Carely](https://github.com/jiohjung98/2024_DANPOONG_TEAM_43_FE) - 돌봄의 순간을 하나로 연결하다 - 간병인, 자원봉사자, 요양보호사 매칭 플랫폼 | **Frontend Lead**
-- [Moaguide](https://github.com/Moaguide-develop/moaguide_front) - STO 조각투자 큐레이션 플랫폼 | **Frontend**
-- [Trippy](https://github.com/official-Trippy/trippy-front) - 여행기, OOTD 공유 및 공공데이터 기반 관광지 추천 플랫폼 | **Frontend Lead, PM**
-- [Offi-Space](https://github.com/jiohjung98/Offi-Space) -  거점 공유 오피스 예약 플랫폼 (plusX 기업 연계) | **Frontend**
-- [Coolpeace](https://github.com/CoolPeace-yanolza/frontend) - 야놀자와 숙박업주들을 위한 백오피스 플랫폼 (야놀자 기업 연계) | **Frontend**
-- [PawPaw](https://github.com/jiohjung98/HanyangCapston) - 인공지능 기술을 활용한 유실견 탐색 플랫폼 (한국전자통신연구원 연계) | **App Frontend, PM, UI/UX Designer**
+- [어이, 할망](https://github.com/ddol-mang) | **[구름톤 in 제주 12기 해커톤 프로젝트]** - 제주 부모, 육지 자녀 간 안부를 묻는 간편 소통 플랫폼 | Frontend Lead
+- [Carely](https://github.com/jiohjung98/2024_DANPOONG_TEAM_43_FE) | **[구름톤 유니브 3기 단풍톤 프로젝트]** - 돌봄의 순간을 하나로 연결하다, 간병인 및 자원봉사자, 요양보호사 매칭 플랫폼 | Frontend Lead
+- [Moaguide](https://github.com/Moaguide-develop/moaguide_front) | **[2024 예비창업패키지 선정 프로젝트]** - STO 조각투자 큐레이션 플랫폼 | Frontend, QA
+- [Trippy](https://github.com/official-Trippy/trippy-front) | **[2024 관광데이터 활용 공모전 프로젝트]** - 여행기, OOTD 공유 및 공공데이터 기반 관광지 추천 플랫폼 | Frontend Lead, PM
+- [Offi-Space](https://github.com/jiohjung98/Offi-Space) | **[plusX 기업연계 프로젝트]** - 거점 공유 오피스 예약 플랫폼 | Frontend
+- [Coolpeace](https://github.com/CoolPeace-yanolza/frontend) | **[야놀자 기업연계 프로젝트]** - 야놀자와 숙박업주들을 위한 백오피스 플랫폼 | Frontend
+- [PawPaw](https://github.com/jiohjung98/HanyangCapston) | **[ETRI 기업연계 프로젝트]** - 인공지능 기술을 활용한 유실견 탐색 플랫폼 | App Frontend Lead, PM, UI/UX Designer
 
 <br/><br/>
 
