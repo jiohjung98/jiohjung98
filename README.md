@@ -68,7 +68,7 @@
 - [Moaguide](https://github.com/Moaguide-develop/moaguide_front) | **[2024 예비창업패키지 선정 프로젝트]** - STO 조각투자 큐레이션 플랫폼 | Frontend, QA
 - [Trippy](https://github.com/official-Trippy/trippy-front) | **[2024 관광데이터 활용 공모전 프로젝트]** - 여행기, OOTD 공유 및 공공데이터 기반 관광지 추천 플랫폼 | Frontend Lead, PM
 - [Offi-Space](https://github.com/jiohjung98/Offi-Space) | **[plusX 기업연계 프로젝트]** - 거점 공유 오피스 예약 플랫폼 | Frontend
-- [Coolpeace](https://github.com/CoolPeace-yanolza/frontend) | **[야놀자 기업연계 프로젝트]** - 야놀자와 숙박업주들을 위한 백오피스 플랫폼 | Frontend
+- [비서 Ya](https://github.com/CoolPeace-yanolza/frontend) | **[야놀자 기업연계 프로젝트]** - 야놀자와 숙박업주들을 위한 백오피스 플랫폼 | Frontend
 - [PawPaw](https://github.com/jiohjung98/HanyangCapston) | **[ETRI 기업연계 프로젝트]** - 인공지능 기술을 활용한 유실견 탐색 플랫폼 | App Frontend Lead, PM, UI/UX Designer
 
 <br/><br/>
