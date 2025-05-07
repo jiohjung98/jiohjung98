@@ -1,7 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiohjung98&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)<br>
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jioh's%20Github!&fontSize=80)<br><br><br>
-<br><br>
-
 ## Frontend Developer 
 - I am jioh jung from South Korea.
 - I'm studying Division of ICT and Computer Science.
