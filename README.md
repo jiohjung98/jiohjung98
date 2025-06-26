@@ -1,3 +1,14 @@
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jiohjung98&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jiohjung98"
+  width="600"
+  height="300"
+/>
+</a>
+
+
+<br/><br/>
+
 ## Frontend Developer 
 - I am jioh jung from South Korea.
 - I'm studying Division of ICT and Computer Science.
@@ -76,8 +87,3 @@
 ## [Boj](https://www.acmicpc.net/) Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkumiya)](https://solved.ac/kkumiya)<br><br><br>
-
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/jiohjung98"/>
-</a>
