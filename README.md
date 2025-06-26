@@ -76,3 +76,8 @@
 ## [Boj](https://www.acmicpc.net/) Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkumiya)](https://solved.ac/kkumiya)<br><br><br>
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jiohjung98"/>
+</a>
