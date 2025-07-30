@@ -40,6 +40,12 @@
 <br/><br/>
 
 ## Activities
+- **Depromeet 17th (2025.07 - 2025.11)**
+
+  > Web Frontend
+- **DND 13th (2025.07 - 2025.08)**
+
+  > Web Frontend
 - **9oormthon in Jeju 12th Hackathon (2024.12 - 2024.12)**
 
   > Web Frontend
