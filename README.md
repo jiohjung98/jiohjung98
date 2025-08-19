@@ -50,14 +50,14 @@
 - **9oormthon in Jeju 12th Hackathon (2024.12 - 2024.12)**
 
   > Web Frontend
-- **전국 IT 연합 동아리 9oormthon univ 3rd Hackathon (2024.11 - 2024.12)**
+- **9oormthon univ 3rd Hackathon (2024.11 - 2024.12)**
 
   > Web Frontend
-- **전국 IT 연합 동아리 9oormthon univ 3rd (2024.07 - 2025.01)**
+- **9oormthon univ 3rd (2024.07 - 2025.01)**
 
   > Hanyang University ERICA Representative
 
-- **전국 IT 연합 동아리 University MakeUs Challenge 3rd (2022.09 - 2023.02)**
+- **University MakeUs Challenge 3rd (2022.09 - 2023.02)**
 
   >Android Part (Kotlin)
 
